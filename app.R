@@ -1,13 +1,9 @@
-## app.R ##
 library(shiny)
-library(shinydashboard)
+source('myUI.R', local = TRUE)
+source('myServer.R')
 
-ui <- dashboardPage(
-  dashboardHeader(),
-  dashboardSidebar(),
-  dashboardBody()
+
+shinyApp(
+  ui = myUI,
+  server = myserver
 )
-
-server <- function(input, output) { }
-
-shinyApp(ui, server)
