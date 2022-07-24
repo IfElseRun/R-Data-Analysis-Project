@@ -1,6 +1,4 @@
-.container-fluid {
-  padding: 0;
-}
+
 .landing-page {
   background-image: url(landing-background.png);
   width: 100%;
@@ -12,4 +10,10 @@
 }
 .borough-dropdown {
   top: 54%;
+}
+
+.see-more > .col-sm-3 {
+  background-color: #8D3819;
+  height: 250px;
+  margin: 50px;
 }

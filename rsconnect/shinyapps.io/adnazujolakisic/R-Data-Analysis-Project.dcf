@@ -5,9 +5,9 @@ account: adnazujolakisic
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6528745
-bundleId: 6030217
+bundleId: 6121560
 url: https://adnazujolakisic.shinyapps.io/R-Data-Analysis-Project/
-when: 1655864712.54687
-lastSyncTime: 1655864712.54688
+when: 1658456165.90356
+lastSyncTime: 1658456165.90357
 asMultiple: FALSE
 asStatic: FALSE
